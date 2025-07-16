@@ -48,9 +48,9 @@ export default function Gallery() {
             {carouselImages.map(({ src, title, medium, dimensions }, index) => (
               <CarouselItem
                 key={index}
-                className="basis-[70%] sm:basis-[60%] md:basis-[45%] lg:basis-[33%] px-[15vw] sm:px-4 snap-center"
+                className="basis-full sm:basis-[60%] md:basis-[45%] lg:basis-[33%] px-4 snap-center"
               >
-                <div className="relative w-full h-[85vh] p-2">
+                <div className="relative w-full h-[85vh] p-2 relative">
                   <Image
                     src={src}
                     alt={title}

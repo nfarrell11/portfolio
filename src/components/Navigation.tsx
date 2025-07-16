@@ -20,17 +20,17 @@ export default function Navigation() {
               Nick Farrell
               
             </h1>
-            <span className="block text-sm font-medium text-gray-700">
+            <span className="hidden md:block text-sm font-medium text-gray-700">
                 Developer &nbsp;|&nbsp; Project Manager &nbsp;|&nbsp; Artist
               </span>
 
             {/* Desktop Navigation */}
             <div className="hidden md:flex space-x-8 text-base sm:text-lg">
-              <button onClick={() => scrollToSection("about")} className="hover:text-gray-600 transition-colors">
-                About
-              </button>
               <button onClick={() => scrollToSection("gallery")} className="hover:text-gray-600 transition-colors">
                 Gallery
+              </button>
+              <button onClick={() => scrollToSection("about")} className="hover:text-gray-600 transition-colors">
+                About
               </button>
               <button onClick={() => scrollToSection("cv")} className="hover:text-gray-600 transition-colors">
                 CV
