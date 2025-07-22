@@ -19,9 +19,9 @@ export default function ExperienceSection() {
         </div>
         <div className="border-l-4 border-green-500 pl-6">
           <h4 className="font-semibold">Research Assistant / Technician I</h4>
-          <p className="text-gray-600">Morris & Helen Belkin Art Gallery, University of British Columbia | 2017&ndash;2019</p>
+          <p className="text-gray-600">Morris & Helen Belkin Art Gallery, University of British Columbia | 2016&ndash;2019</p>
           <p className="text-sm text-gray-500 mt-2">
-            Worked closely with major artists, visiting curators, graduate students, and visual arts faculty to cultivate new knowledge with provocative exhibits of contemporary studio art and systems of social practice. 
+            Worked closely with major artists, visiting curators, graduate students, and visual arts faculty to cultivate new knowledge with provocative exhibits of contemporary studio art and systems of social practice. Performed restoration on public art.
           </p>
         </div>
       </div>
