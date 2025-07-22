@@ -21,7 +21,7 @@ export default function Navigation() {
               
             </h1>
             <span className="hidden md:block text-sm font-medium text-gray-700">
-                Developer &nbsp;|&nbsp; Project Manager &nbsp;|&nbsp; Artist
+                Museum Services | Logistics Intelligence
               </span>
 
             {/* Desktop Navigation */}
