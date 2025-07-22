@@ -64,7 +64,7 @@ export default function SkillsSection() {
         <SkillsBlock tags={managementSkills} colorClass="bg-green-100 text-green-800" />
       </div>
       <div>
-        <h4 className="font-semibold mb-3">Museum Exhibitions & Collections</h4>
+        <h4 className="font-semibold mb-3">Hospitality</h4>
         <SkillsBlock tags={hospitalitySkills} colorClass="bg-red-100 text-red-800" />
       </div>
     </div>
