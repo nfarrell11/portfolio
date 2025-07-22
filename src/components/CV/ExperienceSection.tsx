@@ -12,9 +12,16 @@ export default function ExperienceSection() {
         </div>    
         <div className="border-l-4 border-green-500 pl-6">
           <h4 className="font-semibold">Preparator II</h4>
-          <p className="text-gray-600">Vancouver Art Gallery | 2017&ndash;2019, 2025&ndash;Present</p>
+          <p className="text-gray-600">Vancouver Art Gallery | 2017&ndash;2019</p>
           <p className="text-sm text-gray-500 mt-2">
             Supported over 40 major exhibitions by fabricating mounts, building displays, and coordinating installation timelines. Worked directly with artists and museum teams to deliver creative visions with technical precision and respect for institutional standards.
+          </p>
+        </div>
+        <div className="border-l-4 border-green-500 pl-6">
+          <h4 className="font-semibold">Research Assistant / Technician I</h4>
+          <p className="text-gray-600">Morris & Helen Belkin Art Gallery, University of British Columbia | 2017&ndash;2019</p>
+          <p className="text-sm text-gray-500 mt-2">
+            Worked closely with major artists, visiting curators, graduate students, and visual arts faculty to cultivate new knowledge with provocative exhibits of contemporary studio art and systems of social practice. 
           </p>
         </div>
       </div>
