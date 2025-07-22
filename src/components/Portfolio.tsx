@@ -1,8 +1,8 @@
-import type React from "react"
+// import type React from "react"
 
-import ContactSection from "./Contact/ContactSection"
+import ContactSection from "./Contact/Contact"
 import CV from "./CV/CV"
-import AboutSection from "./About/AboutSection"
+import AboutSection from "./About/About"
 import Gallery from "./Gallery/Gallery"
 
 export default function Portfolio() {
