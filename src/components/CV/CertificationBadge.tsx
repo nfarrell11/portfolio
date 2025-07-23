@@ -15,7 +15,7 @@ export default function CertificationBadge() {
                 />
               </a>
               <figcaption className="text-sm text-gray-600 mt-2 text-center">
-                Certified Professional Scrum Master&trade; I — Scrum.org
+                Professional Scrum Master&trade; I — Scrum.org
               </figcaption>
             </figure>
   )
