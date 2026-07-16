@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# working specs / scratch docs
+SITE_UPDATE_SPEC.md
