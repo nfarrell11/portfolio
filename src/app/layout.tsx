@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
   title: "Nick Farrell",
-  description: "Project Portfolio",
+  description: "Nick Farrell — fine art logistics, exhibition production, and software development in Vancouver.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

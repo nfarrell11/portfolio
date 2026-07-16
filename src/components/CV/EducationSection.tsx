@@ -12,24 +12,24 @@ export default function EducationSection() {
                     </div>
     
                     <div className="border-l-4 border-blue-500 pl-6">
-                      <h4 className="font-semibold">Associate Certificate in Applied Software Development</h4>
-                      <p className="text-gray-600">BCIT • 2023&ndash;2024</p>
+                      <h4 className="font-semibold">Associate Certificate in Applied Software Development, with Distinction</h4>
+                      <p className="text-gray-600">BCIT • 2025</p>
                       <p className="text-sm text-gray-500 mt-2">
                         Training in Java, React, Next.js, Python, Node.js, relational databases, and business systems analysis.
                       </p>
                     </div>
-    
+
                     <div className="border-l-4 border-blue-500 pl-6">
-                      <h4 className="font-semibold">Associate Certificate in Applied Computer Information Systems</h4>
+                      <h4 className="font-semibold">Associate Certificate in Applied Computer Information Systems, with Distinction</h4>
                       <p className="text-gray-600">BCIT • 2022&ndash;2023</p>
                       <p className="text-sm text-gray-500 mt-2">
                         Foundation in business IT systems, Office 365, technical writing, and web development.
                       </p>
                     </div>
-    
+
                     <div className="border-l-4 border-blue-500 pl-6">
-                      <h4 className="font-semibold">Bachelor of Fine Arts, Interdisciplinary Studio</h4>
-                      <p className="text-gray-600">NSCAD University • 2005&ndash;2009</p>
+                      <h4 className="font-semibold">Bachelor of Fine Arts, Interdisciplinary Studies</h4>
+                      <p className="text-gray-600">NSCAD University • 2010</p>
                       <p className="text-sm text-gray-500 mt-2">
                         Emphasis on experimental practices across painting, installation, and digital media.
                       </p>

@@ -1,5 +1,3 @@
-import { Button } from "@/components/ui/button";
-import { Download } from "lucide-react";
 import SkillsSection from "./SkillsSection";
 import EducationSection from "./EducationSection";
 import ExperienceSection from "./ExperienceSection";
@@ -11,12 +9,7 @@ export default function CV() {
         <div className="max-w-4xl mx-auto">
           <div className="flex justify-between items-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold">Curriculum Vitae</h2>
-            <a href="/Nick-Farrell-CV.pdf" download>
-              <Button>
-                <Download className="w-4 h-4 mr-2" />
-                Download CV
-              </Button>
-            </a>
+            {/* TODO: re-add CV download link once Nick supplies a fresh general-purpose PDF (v8-aligned) */}
           </div>
           <div className="space-y-12">
             <EducationSection />

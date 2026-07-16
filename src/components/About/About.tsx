@@ -13,10 +13,10 @@ export default function About() {
             <div className="space-y-6">
               <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center">About Me</h2>
               <p className="text-lg text-gray-600">
-                I&apos;m an interdisciplinary artist, application developer, and technical project leader with a decade of experience supporting major cultural institutions across Vancouver. My career has been built behind the scenes: coordinating exhibition installs, managing climate-controlled storage, and overseeing the safe transport of high-value artworks. I understand how to embrace change, meet deadlines under pressure, and build trust with clients from day one.
+                I&apos;m an art handler, exhibition preparator, and systems consultant working across Vancouver&apos;s cultural sector &mdash; currently splitting my time between full-cycle logistics for museum collections at Denbigh Fine Art Services, rigging and installation work at Or Gallery, and an independent consulting practice advising a specialty logistics firm on its operational systems. A decade with major institutions has taught me how to embrace change, meet deadlines under pressure, and build trust with clients from day one.
               </p>
               <p className="text-lg text-gray-600 mt-6">
-                Today, I bring that same precision and systems thinking to software. I build web applications that solve real-world problems for small teams and service-based industries. My development approach emphasizes accessibility, responsive design, clean architecture, and customer-first thinking &mdash; always focused on tools that are intuitive to use, easy to maintain, and ready to scale.
+                I also build software. I develop web applications that solve real-world problems for small teams and service-based industries, with an approach that emphasizes accessibility, responsive design, clean architecture, and customer-first thinking &mdash; always focused on tools that are intuitive to use, easy to maintain, and ready to scale.
               </p>
               <p className="text-lg text-gray-600 mt-6">
                 Whether you&apos;re bringing a project across the finish line &mdash; or don&apos;t know where to start &mdash; let&apos;s talk about how my background in logistics, coordination, and software development can support your organization&apos;s goals.

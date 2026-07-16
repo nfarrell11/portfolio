@@ -39,10 +39,10 @@ const museumSkills = [
 ]
 
 const hospitalitySkills = [
+  "Service Manager",
+  "Staff Training",
   "Responsible Beverage Service",
   "Craft Beer",
-  "Staff Training",
-  "Service Manager",
   "Shift Report",
   "Storytelling",
   "Sales"
