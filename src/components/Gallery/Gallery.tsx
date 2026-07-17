@@ -42,8 +42,8 @@ const carouselImages = [
 
 export default function Gallery() {
   return (
-      <section className="relative pt-16 px-4 sm:px-6 lg:px-8" id="gallery">
-        <Carousel className="h-full w-full overflow-hidden" opts={{ loop: true }}>
+      <section className="relative pt-16 px-14 sm:px-16 lg:px-20" id="gallery">
+        <Carousel className="h-full w-full" opts={{ loop: true }}>
           <CarouselContent className="flex snap-x snap-mandatory">
             {carouselImages.map(({ src, title, medium, dimensions }, index) => (
               <CarouselItem
@@ -65,8 +65,8 @@ export default function Gallery() {
               </CarouselItem>
             ))}
           </CarouselContent>
-          <CarouselPrevious className="left-4" />
-          <CarouselNext className="right-4" />
+          <CarouselPrevious />
+          <CarouselNext />
         </Carousel>
       </section>
   )
