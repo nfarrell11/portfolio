@@ -18,13 +18,6 @@ export default function ExperienceSection() {
           </p>
         </div>
         <div className="border-l-4 border-green-500 pl-6">
-          <h4 className="font-semibold">Independent Consultant &mdash; Fine Art Logistics & IT Systems</h4>
-          <p className="text-gray-600">Vancouver, BC | 2025&ndash;Present</p>
-          <p className="text-sm text-gray-500 mt-2">
-            Retained under confidentiality to advise a specialty logistics firm on internal operations systems and data architecture.
-          </p>
-        </div>
-        <div className="border-l-4 border-green-500 pl-6">
           <h4 className="font-semibold">Preparator II</h4>
           <p className="text-gray-600">Vancouver Art Gallery | 2017&ndash;2019</p>
           <p className="text-sm text-gray-500 mt-2">
